@@ -1,4 +1,3 @@
-#!bin/bash
 # Time
 echo 14:23 21°C
 wait 3
