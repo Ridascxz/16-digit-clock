@@ -1,10 +1,10 @@
-#!bin/sh
-#! Time
+#!bin/bash
+# Time
 echo 14:23 21°C
 wait 3
 cls
 
-#! Animation
+# Animation
 echo H
 wait 0.25
 clear
@@ -106,6 +106,6 @@ wait 0.25
 clear
 
 
-#! After Animation
+# After Animation
 echo FEB 11
 wait 3.25
