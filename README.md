@@ -1,1 +1,1 @@
-A 16 giti clock preview
+A 16 gidit clock preview.
